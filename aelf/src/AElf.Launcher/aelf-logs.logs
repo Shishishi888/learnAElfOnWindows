@@ -1,0 +1,191 @@
+2022-03-14 01:23:53,224 [1] INFO  Volo.Abp.Modularity.ModuleManager - Loaded ABP modules:
+2022-03-14 01:23:53,241 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.CrossChain.CrossChainCoreModule
+2022-03-14 01:23:53,241 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.CoreAElfModule
+2022-03-14 01:23:53,241 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Validation.AbpValidationAbstractionsModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Uow.AbpUnitOfWorkModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Data.AbpDataModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Database.DatabaseAElfModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.CoreKernelAElfModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.TransactionPool.TransactionPoolAElfModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.SmartContract.SmartContractAElfModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.SmartContractExecution.SmartContractExecutionAElfModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.ChainController.ChainControllerAElfModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.Node.NodeAElfModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.CrossChain.CrossChainAElfModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.Configuration.ConfigurationAElfModule
+2022-03-14 01:23:53,242 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.Proposal.ProposalAElfModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.KernelAElfModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.Consensus.Scheduler.RxNet.RxNetSchedulerAElfModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.Consensus.CoreConsensusAElfModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.Consensus.AEDPoS.AEDPoSAElfModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.Token.TokenKernelAElfModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Threading.AbpThreadingModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.OS.CoreOSAElfModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.OS.Network.Grpc.GrpcNetworkModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.OS.OSAElfModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Security.AbpSecurityModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Settings.AbpSettingsModule
+2022-03-14 01:23:53,243 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Timing.AbpTimingModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Json.AbpJsonModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Auditing.AbpAuditingModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Http.AbpHttpAbstractionsModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Minify.AbpMinifyModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Http.AbpHttpModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Authorization.AbpAuthorizationModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.EventBus.AbpEventBusModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Guids.AbpGuidsModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Domain.AbpDddDomainModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Localization.AbpLocalizationModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.UI.AbpUiModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Validation.AbpValidationModule
+2022-03-14 01:23:53,244 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Runtime.CSharp.CSharpRuntimeAElfModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.CodeCheck.CodeCheckAElfModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.CSharp.CodeOps.CSharpCodeOpsAElfModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.RuntimeSetup.RuntimeSetupAElfModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.CrossChain.Grpc.GrpcCrossChainAElfModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.GovernmentSystem.GovernmentSystemAElfModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.EconomicSystem.EconomicSystemAElfModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Application.AbpDddApplicationContractsModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Features.AbpFeaturesModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.Application.AbpDddApplicationModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.WebApp.Application.CoreApplicationWebAppAElfModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.WebApp.Application.Chain.ChainApplicationWebAppAElfModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.WebApp.Application.Net.NetApplicationWebAppAElfModule
+2022-03-14 01:23:53,245 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2022-03-14 01:23:53,246 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2022-03-14 01:23:53,246 [1] INFO  Volo.Abp.Modularity.ModuleManager - - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+2022-03-14 01:23:53,246 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.WebApp.Web.WebAppAbpAspNetCoreMvcModule
+2022-03-14 01:23:53,246 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.WebApp.Web.WebWebAppAElfModule
+2022-03-14 01:23:53,246 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.SmartContract.Parallel.ParallelExecutionModule
+2022-03-14 01:23:53,247 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.FeeCalculation.FeeCalculationModule
+2022-03-14 01:23:53,247 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.SmartContract.ExecutionPluginForMethodFee.ExecutionPluginForMethodFeeModule
+2022-03-14 01:23:53,247 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.SmartContract.ExecutionPluginForResourceFee.ExecutionPluginForResourceFeeModule
+2022-03-14 01:23:53,247 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Kernel.SmartContract.ExecutionPluginForCallThreshold.ExecutionPluginForCallThresholdModule
+2022-03-14 01:23:53,247 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Blockchains.BasicBaseChain.BasicBaseChainAElfModule
+2022-03-14 01:23:53,248 [1] INFO  Volo.Abp.Modularity.ModuleManager - - AElf.Blockchains.MainChain.MainChainAElfModule
+2022-03-14 01:23:57,902 [1] FATAL Microsoft.AspNetCore.Hosting.Diagnostics - Application startup exception
+Volo.Abp.AbpInitializationException: An error occurred during the initialize Volo.Abp.Modularity.OnApplicationInitializationModuleLifecycleContributor phase of the module AElf.Blockchains.BasicBaseChain.BasicBaseChainAElfModule, AElf.Blockchains.BasicBaseChain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null: could not connect to redis Instance at localhost:6379. See the inner exception for details.
+ ---> System.Exception: could not connect to redis Instance at localhost:6379
+ ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:6379
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at AElf.Database.RedisProtocol.RedisLite.Connect() in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 172
+   --- End of inner exception stack trace ---
+   at AElf.Database.RedisProtocol.RedisLite.Connect() in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 209
+   at AElf.Database.RedisProtocol.RedisLite.AssertConnectedSocket() in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 319
+   at AElf.Database.RedisProtocol.RedisLite.SendCommand(Byte[][] cmdWithBinaryArgs) in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 378
+   at AElf.Database.RedisProtocol.RedisLite.SendExpectData(Byte[][] cmdWithBinaryArgs) in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 504
+   at AElf.Database.RedisProtocol.RedisLite.GetBytes(String key) in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 129
+   at AElf.Database.RedisProtocol.RedisLite.Get(String key) in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 121
+   at AElf.Database.RedisProtocol.PooledRedisLite.Get(String key) in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\PooledRedisLite.cs:line 109
+   at AElf.Database.RedisDatabase`1.GetAsync(String key) in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisDatabase.cs:line 37
+   at AElf.Kernel.Infrastructure.KeyValueStoreBase`2.GetAsync(String key) in D:\Projects\learn\learnAELF\aelf\src\AElf.Kernel.Core\Infrastructure\KeyValueStoreBase.cs:line 82
+   at AElf.Kernel.Blockchain.Domain.ChainManager.GetAsync() in D:\Projects\learn\learnAELF\aelf\src\AElf.Kernel.Core\Blockchain\Domain\IChainManager.cs:line 114
+   at AElf.Kernel.Blockchain.Application.FullBlockchainService.GetChainAsync() in D:\Projects\learn\learnAELF\aelf\src\AElf.Kernel.Core\Blockchain\Application\IBlockchainService.cs:line 419
+   at AElf.Kernel.Node.Application.BlockchainNodeContextService.StartAsync(BlockchainNodeContextStartDto dto) in D:\Projects\learn\learnAELF\aelf\src\AElf.Kernel.Node\Application\IBlockchainNodeContextService.cs:line 60
+   at AElf.OS.Node.Application.OsBlockchainNodeContextService.StartAsync(OsBlockchainNodeContextStartDto dto) in D:\Projects\learn\learnAELF\aelf\src\AElf.OS.Core\Node\Application\OsBlockchainNodeContextService.cs:line 66
+   at AElf.Blockchains.BasicBaseChain.BasicBaseChainAElfModule.<>c__DisplayClass5_0.<<OnApplicationInitialization>b__0>d.MoveNext() in D:\Projects\learn\learnAELF\aelf\src\AElf.Blockchains.BasicBaseChain\BasicBaseChainAElfModule.cs:line 127
+--- End of stack trace from previous location where exception was thrown ---
+   at Nito.AsyncEx.Synchronous.TaskExtensions.WaitAndUnwrapException(Task task)
+   at Nito.AsyncEx.AsyncContext.<>c__DisplayClass15_0.<Run>b__0(Task t)
+   at System.Threading.Tasks.ContinuationTaskFromTask.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Nito.AsyncEx.Synchronous.TaskExtensions.WaitAndUnwrapException(Task task)
+   at Nito.AsyncEx.AsyncContext.Run(Func`1 action)
+   at Volo.Abp.Threading.AsyncHelper.RunSync(Func`1 action)
+   at AElf.Blockchains.BasicBaseChain.BasicBaseChainAElfModule.OnApplicationInitialization(ApplicationInitializationContext context) in D:\Projects\learn\learnAELF\aelf\src\AElf.Blockchains.BasicBaseChain\BasicBaseChainAElfModule.cs:line 128
+   at Volo.Abp.Modularity.OnApplicationInitializationModuleLifecycleContributor.Initialize(ApplicationInitializationContext context, IAbpModule module)
+   at Volo.Abp.Modularity.ModuleManager.InitializeModules(ApplicationInitializationContext context)
+   --- End of inner exception stack trace ---
+   at Volo.Abp.Modularity.ModuleManager.InitializeModules(ApplicationInitializationContext context)
+   at Volo.Abp.AbpApplicationBase.InitializeModules()
+   at Volo.Abp.AbpApplicationWithExternalServiceProvider.Initialize(IServiceProvider serviceProvider)
+   at Microsoft.AspNetCore.Builder.AbpApplicationBuilderExtensions.InitializeApplication(IApplicationBuilder app)
+   at AElf.Launcher.Startup.Configure(IApplicationBuilder app, IWebHostEnvironment env) in D:\Projects\learn\learnAELF\aelf\src\AElf.Launcher\Startup.cs:line 80
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.Invoke(Object instance, IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.<>c__DisplayClass4_0.<Build>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass13_0.<UseStartup>b__2(IApplicationBuilder app)
+   at Microsoft.Extensions.DependencyInjection.AutoRegisterMiddleware.<>c__DisplayClass4_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Mvc.Filters.MiddlewareFilterBuilderStartupFilter.<>c__DisplayClass0_0.<Configure>g__MiddlewareFilterBuilder|0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.HostFilteringStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+Volo.Abp.AbpInitializationException: An error occurred during the initialize Volo.Abp.Modularity.OnApplicationInitializationModuleLifecycleContributor phase of the module AElf.Blockchains.BasicBaseChain.BasicBaseChainAElfModule, AElf.Blockchains.BasicBaseChain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null: could not connect to redis Instance at localhost:6379. See the inner exception for details.
+ ---> System.Exception: could not connect to redis Instance at localhost:6379
+ ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:6379
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at AElf.Database.RedisProtocol.RedisLite.Connect() in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 172
+   --- End of inner exception stack trace ---
+   at AElf.Database.RedisProtocol.RedisLite.Connect() in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 209
+   at AElf.Database.RedisProtocol.RedisLite.AssertConnectedSocket() in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 319
+   at AElf.Database.RedisProtocol.RedisLite.SendCommand(Byte[][] cmdWithBinaryArgs) in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 378
+   at AElf.Database.RedisProtocol.RedisLite.SendExpectData(Byte[][] cmdWithBinaryArgs) in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 504
+   at AElf.Database.RedisProtocol.RedisLite.GetBytes(String key) in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 129
+   at AElf.Database.RedisProtocol.RedisLite.Get(String key) in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\RedisLite.cs:line 121
+   at AElf.Database.RedisProtocol.PooledRedisLite.Get(String key) in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisProtocol\PooledRedisLite.cs:line 109
+   at AElf.Database.RedisDatabase`1.GetAsync(String key) in D:\Projects\learn\learnAELF\aelf\src\AElf.Database\RedisDatabase.cs:line 37
+   at AElf.Kernel.Infrastructure.KeyValueStoreBase`2.GetAsync(String key) in D:\Projects\learn\learnAELF\aelf\src\AElf.Kernel.Core\Infrastructure\KeyValueStoreBase.cs:line 82
+   at AElf.Kernel.Blockchain.Domain.ChainManager.GetAsync() in D:\Projects\learn\learnAELF\aelf\src\AElf.Kernel.Core\Blockchain\Domain\IChainManager.cs:line 114
+   at AElf.Kernel.Blockchain.Application.FullBlockchainService.GetChainAsync() in D:\Projects\learn\learnAELF\aelf\src\AElf.Kernel.Core\Blockchain\Application\IBlockchainService.cs:line 419
+   at AElf.Kernel.Node.Application.BlockchainNodeContextService.StartAsync(BlockchainNodeContextStartDto dto) in D:\Projects\learn\learnAELF\aelf\src\AElf.Kernel.Node\Application\IBlockchainNodeContextService.cs:line 60
+   at AElf.OS.Node.Application.OsBlockchainNodeContextService.StartAsync(OsBlockchainNodeContextStartDto dto) in D:\Projects\learn\learnAELF\aelf\src\AElf.OS.Core\Node\Application\OsBlockchainNodeContextService.cs:line 66
+   at AElf.Blockchains.BasicBaseChain.BasicBaseChainAElfModule.<>c__DisplayClass5_0.<<OnApplicationInitialization>b__0>d.MoveNext() in D:\Projects\learn\learnAELF\aelf\src\AElf.Blockchains.BasicBaseChain\BasicBaseChainAElfModule.cs:line 127
+--- End of stack trace from previous location where exception was thrown ---
+   at Nito.AsyncEx.Synchronous.TaskExtensions.WaitAndUnwrapException(Task task)
+   at Nito.AsyncEx.AsyncContext.<>c__DisplayClass15_0.<Run>b__0(Task t)
+   at System.Threading.Tasks.ContinuationTaskFromTask.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Nito.AsyncEx.Synchronous.TaskExtensions.WaitAndUnwrapException(Task task)
+   at Nito.AsyncEx.AsyncContext.Run(Func`1 action)
+   at Volo.Abp.Threading.AsyncHelper.RunSync(Func`1 action)
+   at AElf.Blockchains.BasicBaseChain.BasicBaseChainAElfModule.OnApplicationInitialization(ApplicationInitializationContext context) in D:\Projects\learn\learnAELF\aelf\src\AElf.Blockchains.BasicBaseChain\BasicBaseChainAElfModule.cs:line 128
+   at Volo.Abp.Modularity.OnApplicationInitializationModuleLifecycleContributor.Initialize(ApplicationInitializationContext context, IAbpModule module)
+   at Volo.Abp.Modularity.ModuleManager.InitializeModules(ApplicationInitializationContext context)
+   --- End of inner exception stack trace ---
+   at Volo.Abp.Modularity.ModuleManager.InitializeModules(ApplicationInitializationContext context)
+   at Volo.Abp.AbpApplicationBase.InitializeModules()
+   at Volo.Abp.AbpApplicationWithExternalServiceProvider.Initialize(IServiceProvider serviceProvider)
+   at Microsoft.AspNetCore.Builder.AbpApplicationBuilderExtensions.InitializeApplication(IApplicationBuilder app)
+   at AElf.Launcher.Startup.Configure(IApplicationBuilder app, IWebHostEnvironment env) in D:\Projects\learn\learnAELF\aelf\src\AElf.Launcher\Startup.cs:line 80
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.Invoke(Object instance, IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.<>c__DisplayClass4_0.<Build>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass13_0.<UseStartup>b__2(IApplicationBuilder app)
+   at Microsoft.Extensions.DependencyInjection.AutoRegisterMiddleware.<>c__DisplayClass4_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Mvc.Filters.MiddlewareFilterBuilderStartupFilter.<>c__DisplayClass0_0.<Configure>g__MiddlewareFilterBuilder|0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.HostFilteringStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at AElf.Launcher.Program.Main(String[] args) in D:\Projects\learn\learnAELF\aelf\src\AElf.Launcher\Program.cs:line 47
